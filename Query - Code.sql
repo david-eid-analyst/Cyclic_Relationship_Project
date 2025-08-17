@@ -66,4 +66,5 @@ SELECT * FROM Department
 SELECT * FROM Dept_Location
 SELECT * FROM Project
 SELECT * FROM Work_On
+
 SELECT * FROM [Dependent]
